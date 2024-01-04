@@ -1,0 +1,14 @@
+{
+    "languageserver":{
+    },
+   "explorer.wdith": 30,
+   "explorer.icon.enableNerdfont": true,
+   "explorer.previewActions.onHover": false,
+   "explorer.keyMappings.global": {
+       "<cr>": ["expandable?", "expand", "open"],
+       "v": "open:vsplit",
+       "h": "open:split",
+   },
+  "explorer.git.enable": true
+
+}
